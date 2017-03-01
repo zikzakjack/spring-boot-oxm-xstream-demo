@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<name>
+		<firstName>TomDick</firstName>
+		<lastName>Harry</lastName>
+	</name>
+	<age>28</age>
+	<dateOfBirth>1989-01-01</dateOfBirth>
+	<sex>Male</sex>
+	<addressHistory>
+		<address startDate="1989-01-01" endDate="2003-06-06">Montana Main Road,
+			Montana Cross St, Montana - 12345
+		</address>
+		<address startDate="2003-06-06" endDate="2009-07-07">New Jersey Main Road,
+			New Jersey Cross St, New Jersey - 67890
+		</address>
+		<address startDate="2009-07-07" endDate="2017-02-10">Colrado Main Road,
+			Colrado Cross St, Colrado - 99999
+		</address>
+	</addressHistory>
+</person>
