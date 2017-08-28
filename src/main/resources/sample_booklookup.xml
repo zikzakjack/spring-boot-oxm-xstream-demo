@@ -1,0 +1,41 @@
+<root>
+	<sourceName>Jetweb</sourceName>
+	<delimiter>|</delimiter>
+	<valueDate>2017-04-21</valueDate>
+	<books>
+		<attributes>
+			<attribute>RISKCLASS</attribute>
+		</attributes>
+		<values>
+			<value>NY298A</value>
+			<value>NY298B</value>
+			<value>NY299B</value>
+			<value>226A</value>
+			<value>BIDR</value>
+		</values>
+	</books>
+	<response>
+		<attributes>
+			<attribute>RISK_BOOK</attribute>
+			<attribute>COST_CENTER_CODE</attribute>
+		</attributes>
+	</response>
+</root>
+<root>
+	<sourceName>Jetweb</sourceName>
+	<delimiter>|</delimiter>
+	<valueDate>2017-04-21</valueDate>
+	<books>
+		<attributes>
+			<attribute>RISKCLASS|TRADINGBOOKIDID|FX_SELL_DOWN|RISK_BOOK|COST_CENTER_CODE
+			</attribute>
+		</attributes>
+		<values>
+			<value>NY298A</value>
+			<value>NY299B</value>
+			<value>226A</value>
+			<value>BIDR</value>
+		</values>
+	</books>
+	<response />
+</root>

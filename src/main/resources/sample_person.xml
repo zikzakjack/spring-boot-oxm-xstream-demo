@@ -1,0 +1,15 @@
+<person>
+	<name>
+		<firstName>TeenaMeena</firstName>
+		<lastName>Teekka</lastName>
+	</name>
+	<age>16</age>
+	<dateOfBirth>2002-02-10</dateOfBirth>
+	<sex>Male</sex>
+	<addressHistory>
+		<address startDate='2002-02-10' endDate='2005-12-31'>Congo Main Road, Congo
+			- 24680</address>
+		<address startDate='2006-01-01' endDate='2017-03-31'>Nigeria Main Road,
+			Nigeira - 13579</address>
+	</addressHistory>
+</person>
