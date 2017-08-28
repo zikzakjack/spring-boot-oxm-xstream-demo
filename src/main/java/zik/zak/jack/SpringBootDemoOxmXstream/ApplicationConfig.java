@@ -20,7 +20,8 @@ public class ApplicationConfig {
 	public XStreamMarshaller xstreamMarshaller() {
 		XStreamMarshaller xstreamMarshaller = new XStreamMarshaller();
 		Map<String, String> aliasesMap = new HashMap<>();
-		aliasesMap.put("fileServiceMessage", "zik.zak.jack.SpringBootDemoOxmXstream.xml.Person");
+		aliasesMap.put("fileServiceXml", "zik.zak.jack.SpringBootDemoOxmXstream.xml.Person");
+		aliasesMap.put("bookLookupXml", "zik.zak.jack.SpringBootDemoOxmXstream.xml.BookLookup");
 		xstreamMarshaller.setAliases(aliasesMap);
 		xstreamMarshaller.setAutodetectAnnotations(true);
 		return xstreamMarshaller;
