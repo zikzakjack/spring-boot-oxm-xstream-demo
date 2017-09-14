@@ -1,5 +1,5 @@
 <root>
-	<sourceName>Jetweb</sourceName>
+	<sourceName>ZikZakSource</sourceName>
 	<delimiter>|</delimiter>
 	<valueDate>2017-04-21</valueDate>
 	<books>
@@ -7,11 +7,11 @@
 			<attribute>RISKCLASS</attribute>
 		</attributes>
 		<values>
-			<value>NY298A</value>
-			<value>NY298B</value>
-			<value>NY299B</value>
-			<value>226A</value>
-			<value>BIDR</value>
+			<value>INR0078A</value>
+			<value>INR0078B</value>
+			<value>INR0079B</value>
+			<value>411B</value>
+			<value>JACKR</value>
 		</values>
 	</books>
 	<response>
@@ -22,19 +22,18 @@
 	</response>
 </root>
 <root>
-	<sourceName>Jetweb</sourceName>
+	<sourceName>ZikZakSource</sourceName>
 	<delimiter>|</delimiter>
 	<valueDate>2017-04-21</valueDate>
 	<books>
 		<attributes>
-			<attribute>RISKCLASS|TRADINGBOOKIDID|FX_SELL_DOWN|RISK_BOOK|COST_CENTER_CODE
-			</attribute>
+			<attribute>RISKCLASS|TRADINGBOOKID|COST_CENTER_CODE</attribute>
 		</attributes>
 		<values>
-			<value>NY298A</value>
-			<value>NY299B</value>
-			<value>226A</value>
-			<value>BIDR</value>
+			<value>INR0078A</value>
+			<value>INR0079B</value>
+			<value>411B</value>
+			<value>JACKR</value>
 		</values>
 	</books>
 	<response />
